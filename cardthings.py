@@ -1,0 +1,3 @@
+
+print(chr(0x2665))
+print(chr(0x2660))
